@@ -1,0 +1,17 @@
+name: SnowParkour
+version: ${project.version}
+main: me.snownetwork.parkour.Parkour
+api-version: 1.13
+commands:
+  pkset:
+    permission: Snow.admin
+    permission-message: You don't have snow.admin
+  pkcheck:
+    permission: Snow.admin
+    permission-message: You don't have snow.admin
+  pkhelp:
+    permission-message: You don't have snow.admin
+  pkreset:
+    permission-message: You don't have snow.admin
+  pklast:
+    permission-message: You don't have snow.admin
